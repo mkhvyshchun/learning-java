@@ -15,5 +15,6 @@ public class LoopApp {
 
             System.out.println("number = "+i);
         }
+        System.out.println(121);
     }
 }
