@@ -2,6 +2,7 @@ package com.khvyshchun.learning.loop;
 
 public class LoopApp {
     public static void main(String[] args) {
+
         int iVar = 12;
         short sVar = 23;
         long lVar = 1234678866L;
